@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+			text-decoration: none;
+		}
+		.navbar{
+			background:black; 
+			font-family: calibri;
+			 padding-right: 15px;
+			 padding-left: 15px;
+			 height:80px; 
+		}
+		.navdiv{
+			display: flex;
+			 align-items: center;
+			  justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color:red;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		 .cchhh li a{
+			color: white;
+			font-size: 18px;
+			 font-weight: bold; 
+			 margin:13px;
+		}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+	button{
+			
+			color:white;
+			background-color:red; 
+			margin-left: 8px; 
+			border-radius: 10px;
+			 padding: 10px;
+			  width:110px;
+			  border:none; 
+			  margin-right: 40px;
+			  height:40px;
+
+		}
+		button a{
+			color:white; 
+
+		}
+		#myInput {
+  background-image: url("search.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width:10%;
+  font-size: 10px;
+  
+  border: 2px solid #ddd;
+  margin-bottom: 12px;
+  height:33px;
+  margin-left:170px;
+  margin-top: 10px;
+}
+ h1 p{
+  color:red;
+ }
+
+img{
+	height:370px;
+
+}		
+
+
+.mySlides {
+	display: none
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+  max-width:100%;
+  position: relative;
+  margin: auto;
+  margin-top:3px;
+
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* image animation second section animation */
+h1{
+	margin-left:35px;
+	margin-top:40px;
+}
+  .hedin  a p{
+  	margin-left:40px;
+  	font-size:18px;
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width:23%;
+  height:498px; 
+  border-radius: 15px 16px;
+  margin:20px;
+  
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+.htttt{
+display:flex;
+margin:10px;
+}
+.card img{
+	height:200px;
+
+}
+.hhbt button{
+	 background-color:red; 
+			margin-left: 26px; 
+			border-radius: 10px;
+			 padding: 10px;
+			  width:210px;
+			  border:none; 
+			  height:35px;
+			  color: white;
+			  margin-top: 4px;
+
+
+}
+.container p {
+	font-size:15px;
+	
+
+}
+.container i {
+	color: red;
+	margin-right:8px;
+
+}
+h4 b{
+	margin-left: 7px;
+}
+
+.imggg img{
+	border-radius:50%;
+	height:115px;
+	width:120px; 
+	border:8px solid red;
+	margin:10px;
+
+   bottom: 15%;
+
+}
+.kkk button {
+	margin-top:1px;
+	height:40px;
+	 margin-left: 17px;
+	width:120px;
+	
+}
+.ksjjsj{
+	margin-left:36px;
+	display:flex;
+	
+
+}
+
+h5{
+	margin-top:80px;
+	font-size:25px;
+}
+.order h3{
+	margin-left:45px;
+
+}
+
+.hhh{
+	margin-left:235px;
+	display: flex;
+	margin:80px;
+	
+
+}
+.imagesection{
+	display:flex; 
+
+}
+.rrrrr{
+	margin-left: 200px;
+
+}
+div.scroll-container {
+  background-color: #333;
+  
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+
+}
+.imghhhh img{
+	margin-top:60px;
+	margin-left:50px;
+	height:420px;
+	width: 300px;
+	border-radius:15px 19px;
+	border:5px solid black;
+}
+.recent h2{
+	margin-top:60px;
+	margin-left: 50px;
+
+}
+.checked {
+  color: orange;
+  margin-left: 9px;
+}
+.fa fa-star{
+   margin-left:10px;
+}
+h4 p{
+	margin-left: 3px;
+}
+.imgggg img{
+	border-radius:50%;
+	height:90px;
+	width:90px; 
+	border:5px solid red;
+	margin-left:20px;
+
+}
+  h6{
+	margin-left:140px;
+	font-size:20px;
+	margin-top:-65px;
+}
+.recentacrtivity{
+
+
+
+}
+.cards {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width:160%;
+  height:498px; 
+  border-radius: 15px 16px;
+  
+  margin-top: -1px;
+  margin-top: 130px;
+  margin-left: -190px;
+  
+}
+
+.cards:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.cards img{
+	height:200px;
+
+}
+.ghgh{
+	display:flex; 
+
+}
+.kanjibaba{
+	display:flex;
+
+}
+.recentt{
+	margin-left: 120px;
+
+}
+.secondrev{
+	margin-left: 120px;
+	margin-top: 50px;
+
+}
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+bottom: 15%;
+  
+}
+
+div.scroll-container img {
+  padding: 10px;
+bottom: 15%;
+ 
+
+}
+.horizentalgallery{
+	margin-top:50px;
+
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: auto;
+    background-color: #2d2e33;
+    padding: 60px 10%;
+     height: 400px;
+
+
+   
+    line-height: 1.2;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer-col{
+    width: 25%;
+}
+
+.footer-col h4{
+    position: relative;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 22px;
+    color:red;
+    text-transform: capitalize;
+}
+
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    background-color: #27c0ac;
+    height: 2px;
+    width: 40px;
+}
+
+ul li:not(:last-child){
+    margin-bottom: 8px;
+}
+
+ul li a{
+    display: block;
+    font-size: 19px;
+    text-transform: capitalize;
+    color: #bdb6b6;
+    text-decoration: none;
+    transition: 0.4s;
+    margin-left: -30px;
+}
+
+ul li a:hover{
+    color: white;
+    padding-left:2px;
+}
+
+.links a{
+    display: inline-block;
+    height: 44px;
+    width: 44px;
+    color: white;
+    background-color:red;
+    margin: 0 8px 8px 0;
+    text-align: center;
+    line-height: 44px;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+.links a:hover{
+    color: #4d4f55;
+    background-color: white;
+}
+
+.footerss{
+	margin-top: 10px;
+	height:300px;
+
+}
